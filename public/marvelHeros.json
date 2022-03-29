@@ -1,0 +1,101 @@
+[
+    {   
+        "key": 1,
+        "name": "Black Widow",
+        "role": "Actress",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blackwidow_lob_mas_mob_17.jpg"
+    },
+    {
+        "key": 2,
+        "name": "Stan Lee",
+        "role": "Story Writer",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://www.gannett-cdn.com/-mm-/5d3359bcba2bff86747a0c4e298f2cc20eef0463/c=0-200-2450-1584/local/-/media/2018/11/16/USATODAY/USATODAY/636779871444328356-AP-People-Stan-Lee.JPG?width=660&height=373&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+        "key": 3,
+        "name": "Hulk",
+        "role": "Actor",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://i.ytimg.com/vi/MAfIvBgChjQ/maxresdefault.jpg"
+    },
+    {
+        "key": 4,
+        "name": "Iron Man",
+        "role": "Actor",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI5ODY5NTUzMF5BMl5BanBnXkFtZTcwOTAzNTIzMw@@._V1_.jpg"
+    },
+    {
+        "key": 5,
+        "name": "Captain America",
+        "role": "Actor",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/0a823cb0-01a9-4835-a348-c64187783ccb/d37cb96c-805c-4aa2-9f2f-e62d9eb814c7/1280x720/match/image.jpg"
+    },
+    {
+        "key": 6,
+        "name": "Spider Man",
+        "role": "Actor",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://cdn.mos.cms.futurecdn.net/2mtUk7n4S7CUF8trRW67hX-1200-80.jpg"
+    },
+    {
+        "key": 7,
+        "name": "Black Panther",
+        "role": "Actor",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://i.ytimg.com/vi/iY5361qD51s/maxresdefault.jpg"
+    },
+    {
+        "key": 8,
+        "name": "Thor",
+        "role": "Actor",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://media.comicbook.com/2021/08/thor-chris-hemsworth-welcomes-shang-chi-simu-liu-to-mcu-1279461.jpeg?auto=webp"
+    },
+    {
+        "key": 9,
+        "name": "Doctor Strange",
+        "role": "Magician",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://www.cnet.com/a/img/resize/646056c0ff1b9be644c8ec55651f46cd1790c2c0/2021/05/03/b5d89184-2ef3-4e3e-9031-be258f108f93/doctor-strange-2.jpg?auto=webp&width=940"
+    },
+    {
+        "key": 10,
+        "name": "Groot",
+        "role": "Actor",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://cdn.vox-cdn.com/thumbor/yzPdGsXFWCHbNMlDWHhPROUzVeI=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8378039/baby-groot-guardians.0.jpg"
+    },
+    {
+        "key": 11,
+        "name": "Thanos",
+        "role": "Actor",
+        "age": 51,
+        "country": "US",
+        "salary": 1000,
+        "image": "https://cdn.vox-cdn.com/thumbor/JBJzwCXmTJs0NgnFtSPm_f5SMyw=/0x0:2000x1000/1200x800/filters:focal(654x138:974x458)/cdn.vox-cdn.com/uploads/chorus_image/image/59408999/Thanos_MCU.0.jpg"
+    }
+]
