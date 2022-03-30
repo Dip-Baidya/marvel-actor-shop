@@ -31,6 +31,9 @@ const Shop = () => {
                                 handleAddToCart={handleAddToCart}></Heros>)
                         }
                     </div>
+                    {/* {
+                        cart.map(cartData => <Cart cartData={cartData} ></Cart>)
+                    } */}
                     <div className="col-md-3">
                         <Cart cart={cart} key={cart.key}></Cart>
                     </div>

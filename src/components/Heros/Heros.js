@@ -24,7 +24,8 @@ const Heros = (props) => {
                         </div>
                     </div>
                 </div>
-                <div className="col">
+
+                {/* <div className="col">
                     <div className="card h-100">
                         <img src={image} className="card-img-top " alt="..." />
                         <div className="card-body text-center">
@@ -36,8 +37,8 @@ const Heros = (props) => {
                             <button onClick={() => props.handleAddToCart(props.hero)} className="btn btn-danger">{cartIcon} Add Me</button>
                         </div>
                     </div>
-                </div>
-                <div className="col">
+                </div> */}
+                {/* <div className="col">
                     <div className="card h-100">
                         <img src={image} className="card-img-top " alt="..." />
                         <div className="card-body text-center">
@@ -49,7 +50,7 @@ const Heros = (props) => {
                             <button onClick={() => props.handleAddToCart(props.hero)} className="btn btn-danger">{cartIcon} Add Me</button>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </>
     );

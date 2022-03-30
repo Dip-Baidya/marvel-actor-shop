@@ -3,12 +3,12 @@ import './Cart.css'
 
 const Cart = (props) => {
     const { cart } = props;
-    console.log()
 
     let total = 0;
     for (const hero of cart) {
         total = total + hero.salary;
     }
+
     const shipping = total > 0 ? 15 : 0;
     const tax = (total + shipping) * 0.10;
     const grandTotal = total + shipping + tax;
@@ -23,14 +23,19 @@ const Cart = (props) => {
             <p>Shipping Charge: ${shipping.toFixed(2)}</p>
             <h5>Grand Total: ${grandTotal.toFixed(2)}</h5>
 
-            <div className="cart d-flex mb-3">
-                <div className="image-style">
-                    <img src={cart.image} href="" />
-                </div>
-                <div className="">
-                    <h5>{cart.name}</h5>
-                </div>
-            </div>
+            {
+                cart.map(cartData =>
+                    <div className="cart d-flex mb-3">
+
+                        <div >
+                            <img className="image-style me-4" src={cartData.image} alt="" />
+                        </div>
+
+                        <div className="">
+                            <h5>{cartData.name}</h5>
+                        </div>
+                    </div>)
+            }
         </div>
     );
 };
